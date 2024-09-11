@@ -1,4 +1,8 @@
 ; HMS NPS23 calibration parameter files for runs 6881-7012
 #include "PARAM/HMS/DC/hdc_calib_6905.param"
+<<<<<<< HEAD
 #include "PARAM/HMS/DC/hdc_tzero_per_wire_6905.param"
 #include "PARAM/HMS/CAL/hcal_calib_6905.param"
+=======
+#include "PARAM/HMS/DC/hdc_tzero_per_wire_6905.param"
+>>>>>>> 3d53d46 (New DC calibration parameter files)

@@ -1,4 +1,8 @@
 ; HMS NPS23 calibration parameter files for runs 5524-5895 (KinC_x60_1)
 #include "PARAM/HMS/DC/hdc_calib_5526.param"
+<<<<<<< HEAD
 #include "PARAM/HMS/DC/hdc_tzero_per_wire_5526.param"
 #include "PARAM/HMS/CAL/hcal_calib_5524.param"
+=======
+#include "PARAM/HMS/DC/hdc_tzero_per_wire_5526.param"
+>>>>>>> 3d53d46 (New DC calibration parameter files)
